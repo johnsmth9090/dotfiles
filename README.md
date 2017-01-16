@@ -1,1 +1,1 @@
-# dotfiles
+Personal scripts by John Smith
